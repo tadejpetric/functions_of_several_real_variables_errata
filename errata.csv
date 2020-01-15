@@ -2,4 +2,4 @@ page, section, description
 180, 3.8.2, "Missing closing bracket in \|\|g(x_1) - g(x_2 **)** \|\| &leq; ..."
 181, 3.8.2, "Since the Jacobian is continuous, there exists a delta such that J_f(x) &neq; 0 for all x in the ball with the radius delta. Not r"
 286, 4.6.1, "the result is 32/375, not 32/125. The rest is ok"
-294, 5.1, "The correction is incorrect and not needed. The absolute value comes into place when integrating by area. Before that it is fixed automatically by the bounds""
+294, 5.1, "The correction is incorrect and not needed. The absolute value comes into place when integrating by area. Before that it is fixed automatically by the bounds"
