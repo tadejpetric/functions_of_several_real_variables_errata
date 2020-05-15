@@ -9,4 +9,6 @@ page, section, description
 317, 5.1.27, "The 2nd line of integration should be kr^2(r^2+b^2-2br cos t). The end result is correct since the cos is 0"
 354, 5.3.15, "one open bracket too much"
 445, 6.3.20, "missing closing bracket in first math line of the solution"
+485, 6.8.2, "multiplication for k=2 one d too much"
+486, 6.8.3, "I think the closing bracket on the first line of the solution should be at the end of the line?"
 502, 6.10.2, "one open bracket too much in instructions, 1."
