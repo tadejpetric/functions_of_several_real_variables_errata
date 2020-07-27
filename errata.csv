@@ -15,6 +15,7 @@ page, section, description
 317, 5.1.27, "The 2nd line of integration should be kr^2(r^2+b^2-2br cos t). The end result is correct since the cos is 0"
 329, 5.2.2, "the strict subsets in the 1st line of proof should be less-or-equal <="
 354, 5.3.15, "one open bracket too much in the theorem"
+415, 10, "solution to d is incorrect"
 445, 6.3.20, "missing closing bracket in first math line of the solution"
 450, 6.4.1, "in proof, psi2 is dependent on y, not on x"
 473, 5, "the integral is not equal to 0 as the curl isn't 0. Last term is incorrect"
